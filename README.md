@@ -1,2 +1,0 @@
-# hooks-testing
-Hooks testing
